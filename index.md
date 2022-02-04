@@ -1,8 +1,10 @@
 ## Welcome to the OSINT Hack Documentation
 
-![OSINT Hack Logo](images/OsintHackLogo.png)
+## Topics
+
+- [Exploring the OSINT Hackthon API](exploringapi) 
 
 
-### Contributing to the documentation
+### Contributing to this documentation
 
-We welcome any updates or additions to the documentation. [How?](contributing)
+We welcome any updates or additions to the documentation. [How to contribute](contributing)
