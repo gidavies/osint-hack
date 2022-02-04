@@ -1,6 +1,8 @@
+---
 layout: page
 title: "contributing"
 permalink: /contributing/
+---
 
 ## Contributing to the OSINT Hack Documentation
 
