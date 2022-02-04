@@ -2,9 +2,9 @@
 
 ## Topics
 
-- [Exploring the OSINT Hackthon API](exploringapi) 
+- [Exploring the OSINT Hackathon API](exploringapi) 
 
 
 ### Contributing to this documentation
 
-We welcome any updates or additions to the documentation. [How to contribute](contributing)
+We welcome any updates or additions to the documentation. [How to contribute](contribute)
