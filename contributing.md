@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: jekyll-theme-slate
 ---
 
 ## Contributing to the OSINT Hack Documentation
