@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Contributing to the OSINT Hack Documentation
 
 You can contribute to this documentation site by comiiting new updates to the [osint-hack GitHub project](https://github.com/gidavies/osint-hack).
