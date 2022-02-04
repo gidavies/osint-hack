@@ -1,6 +1,6 @@
 ## Welcome to the OSINT Hack Documentation
 
-
+![OSINT Hack Logo](images/OsintHackLogo.png)
 
 
 ### Contributing to the documentation
