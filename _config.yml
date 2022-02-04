@@ -1,10 +1,2 @@
 theme: jekyll-theme-slate
 title: OSINT Hack Documentation
-logo: /images/OsintHackLogo.png
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
